@@ -1,1 +1,1 @@
-this file consists of contacts
+This file consists of contacts and phone numbers
